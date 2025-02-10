@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on ML<br>I'm looking to collaborate on ML Projects
+I'm currently working as web Developer<br>I'm looking to collaborate on DevOps Projects<br>Intrested in ML, Computer Vision
 
 
 ## 🌐 Socials:
